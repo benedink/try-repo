@@ -1,3 +1,3 @@
 #NICEEEE
 
-try lang pi
+try lang pi!
